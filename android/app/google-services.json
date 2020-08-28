@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241860810029",
+    "firebase_url": "https://appim-af0cc.firebaseio.com",
+    "project_id": "appim-af0cc",
+    "storage_bucket": "appim-af0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241860810029:android:a9320b4a32d119515eefa4",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241860810029-7pp1avod0enm5henapblt0s8uh733k12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDUnMlNkvMxGYfvK9Vrrxcs6dfeYtZwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241860810029-7pp1avod0enm5henapblt0s8uh733k12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
